@@ -10,4 +10,4 @@ eureka:
 endpoint:
   first: true
   second: true
-  regex: .*
+  regex: .*/first
