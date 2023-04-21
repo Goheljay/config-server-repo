@@ -9,5 +9,5 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 endpoint:
   first: true
-  second: true
+  second: false
   regex: .*
